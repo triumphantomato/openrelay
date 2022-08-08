@@ -140,7 +140,7 @@ iPhone's Lockdown mode is also a good idea, and always use an end-to-end encrypt
 </details>
 
 <details>
-  <summary> Q. What data does OpenRelay protect from whom? </summary>
+  <summary> Q. What data does OpenRelay have access to? </summary>
   
   _OpenRelay vs VPN's_
   
